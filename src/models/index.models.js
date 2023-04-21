@@ -1,0 +1,9 @@
+exports.WellnessCategoriesSchema = require("./WellnessCategories");
+exports.FollowersListSchema = require("./Followers");
+exports.CoursesSchema = require("./Courses");
+exports.OutlierCourseLessonsSchema = require("./OutlierCourseLessonList");
+exports.PostDetailSchema = require("./PostDetail");
+exports.BadgeTriggersSchema = require("./BadgeTrigger");
+exports.OutlierCourseBadgesSchema = require("./OutlierCourseBadgeList");
+exports.UserCourseProgressSchema = require("./UserCourseProgress");
+exports.NotificationListSchema = require("./Notification");
